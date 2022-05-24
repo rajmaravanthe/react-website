@@ -1,0 +1,84 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.items {
+  display: flex;
+  width: 90%;
+  height: 400px;
+  background-color: #eb3124;
+  align-items: center;
+  justify-content: center;
+}
+
+.items > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  background-color: white;
+  width: 16%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+h1,
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eb3124;
+}
+
+h1 {
+  padding-top: 5%;
+}
+
+p {
+  text-align: center;
+  font-size: medium;
+}
+
+.textContent {
+  display: flex;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10%;
+}
+
+.textContent > div {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.main {
+  font-size: 22px;
+  color: #eb3124;
+}
+
+.sub,
+.leftSub {
+  padding-top: 5%;
+  font-size: medium;
+  color: white;
+}
+
+.sub > div {
+  padding-top: 5%;
+}
+
+.leftSub > div {
+  padding-top: 5%;
+}
+
+.source {
+  font-size: small;
+  color: grey;
+}
+
+.redBorder {
+  border-top: 5px solid #eb3124;
+}
