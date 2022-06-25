@@ -9,7 +9,7 @@ const MainHeader = () => {
         <NavLink to='/' activeClassName={classes.active}>
           <img
             className={classes.homeImage}
-            src='https://africa.worldfis.com/wp-content/uploads/2021/12/tradepass-red-logo.png'
+            src='https://ih1.redbubble.net/image.514543212.3365/flat,750x1000,075,f.u4.jpg'
           />
         </NavLink>
       </h2>
